@@ -1,0 +1,1560 @@
+fileFormatVersion: 2
+guid: 47234c9c288a3c84e9bc307ae7f11f89
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6809606109040107243
+    second: Level_0__Furniture_0
+  - first:
+      213: -2615658750810545788
+    second: Level_0__Furniture_1
+  - first:
+      213: -8322547504366255562
+    second: Level_0__Furniture_2
+  - first:
+      213: 2634462403363380459
+    second: Level_0__Furniture_3
+  - first:
+      213: -9038316452392688886
+    second: Level_0__Furniture_4
+  - first:
+      213: -5244613318311438816
+    second: Level_0__Furniture_5
+  - first:
+      213: -2806378572120586486
+    second: Level_0__Furniture_6
+  - first:
+      213: -3813108810137306572
+    second: Level_0__Furniture_7
+  - first:
+      213: -2002482854189757347
+    second: Level_0__Furniture_8
+  - first:
+      213: 2742087877151017867
+    second: Level_0__Furniture_9
+  - first:
+      213: -275294680398844349
+    second: Level_0__Furniture_10
+  - first:
+      213: -3670563164383092618
+    second: Level_0__Furniture_11
+  - first:
+      213: -5875384217443389000
+    second: Level_0__Furniture_12
+  - first:
+      213: -5413598016701656488
+    second: Level_0__Furniture_13
+  - first:
+      213: -5989365568928549125
+    second: Level_0__Furniture_14
+  - first:
+      213: 3496795445741445801
+    second: Level_0__Furniture_15
+  - first:
+      213: 1106215384420328421
+    second: Level_0__Furniture_16
+  - first:
+      213: 5175420264054945868
+    second: Level_0__Furniture_17
+  - first:
+      213: 7877347248569111107
+    second: Level_0__Furniture_18
+  - first:
+      213: -3616653381990640701
+    second: Level_0__Furniture_19
+  - first:
+      213: 8787904143149236811
+    second: Level_0__Furniture_20
+  - first:
+      213: -2663136477716821500
+    second: Level_0__Furniture_21
+  - first:
+      213: -3645326435049650759
+    second: Level_0__Furniture_22
+  - first:
+      213: -6446169026353707079
+    second: Level_0__Furniture_23
+  - first:
+      213: 2869795682974225270
+    second: Level_0__Furniture_24
+  - first:
+      213: -3578991323448956456
+    second: Level_0__Furniture_25
+  - first:
+      213: -1392865035850808562
+    second: Level_0__Furniture_26
+  - first:
+      213: -2372020136678626662
+    second: Level_0__Furniture_27
+  - first:
+      213: -1137139978047033742
+    second: Level_0__Furniture_28
+  - first:
+      213: -2857107937707780756
+    second: Level_0__Furniture_29
+  - first:
+      213: -8704430461319759000
+    second: Level_0__Furniture_30
+  - first:
+      213: -574560812676371878
+    second: Level_0__Furniture_31
+  - first:
+      213: 6075351702580708521
+    second: Level_0__Furniture_32
+  - first:
+      213: 6078493255062381633
+    second: Level_0__Furniture_33
+  - first:
+      213: 3275285145026462976
+    second: Level_0__Furniture_34
+  - first:
+      213: -3717991161044264898
+    second: Level_0__Furniture_35
+  - first:
+      213: -5742941561037586149
+    second: Level_0__Furniture_36
+  - first:
+      213: 2748596528894100738
+    second: Level_0__Furniture_37
+  - first:
+      213: -3300438393666189774
+    second: Level_0__Furniture_38
+  - first:
+      213: 5161137870547596813
+    second: Level_0__Furniture_39
+  - first:
+      213: 554506814439960422
+    second: Level_0__Furniture_40
+  - first:
+      213: 8389650407739348483
+    second: Level_0__Furniture_41
+  - first:
+      213: -2175324251749407367
+    second: Level_0__Furniture_42
+  - first:
+      213: -5889038553826955354
+    second: Level_0__Furniture_43
+  - first:
+      213: -7038283738588401836
+    second: Level_0__Furniture_44
+  - first:
+      213: -2084009436298366312
+    second: Level_0__Furniture_45
+  - first:
+      213: 1751720250918774311
+    second: Level_0__Furniture_46
+  - first:
+      213: -7900983729735444911
+    second: Level_0__Furniture_47
+  - first:
+      213: 4711286059594049630
+    second: Level_0__Furniture_48
+  - first:
+      213: 5280133106507545033
+    second: Level_0__Furniture_49
+  - first:
+      213: 5942159610312372079
+    second: Level_0__Furniture_50
+  - first:
+      213: 4350947136485880523
+    second: Level_0__Furniture_51
+  - first:
+      213: 4671109613218946164
+    second: Level_0__Furniture_52
+  - first:
+      213: -486638292947428455
+    second: Level_0__Furniture_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Level_0__Furniture_0
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 263
+        width: 95
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511a55a925b6f71a0800000000000000
+      internalID: -6809606109040107243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_0__Furniture_1
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 330
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481ab48793053bbd0800000000000000
+      internalID: -2615658750810545788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_0__Furniture_2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 295
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6328fe7b32f508c80800000000000000
+      internalID: -8322547504366255562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_0__Furniture_3
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 279
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec989e099d7f8420800000000000000
+      internalID: 2634462403363380459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_0__Furniture_4
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 286
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03a097d213719280800000000000000
+      internalID: -9038316452392688886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_0__Furniture_5
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 295
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02693c169f36737b0800000000000000
+      internalID: -5244613318311438816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_0__Furniture_6
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 282
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a070c77be8dbd09d0800000000000000
+      internalID: -2806378572120586486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_0__Furniture_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 266
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a7ad96dbd151bc0800000000000000
+      internalID: -3813108810137306572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_0__Furniture_8
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 263
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c85372470c534e0800000000000000
+      internalID: -2002482854189757347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_0__Furniture_9
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 270
+        width: 66
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8bcd74656add0620800000000000000
+      internalID: 2742087877151017867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_0__Furniture_10
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 231
+        width: 64
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ea54e52f4fd2cf0800000000000000
+      internalID: -275294680398844349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_0__Furniture_11
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 248
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670ef4ddf3a8f0dc0800000000000000
+      internalID: -3670563164383092618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_0__Furniture_12
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 248
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1b950fe21767ea0800000000000000
+      internalID: -5875384217443389000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_0__Furniture_13
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 238
+        width: 64
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8521db949490fd4b0800000000000000
+      internalID: -5413598016701656488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_0__Furniture_14
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 247
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6fe028fbf71eca0800000000000000
+      internalID: -5989365568928549125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_0__Furniture_15
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 247
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a26f9b5eec178030800000000000000
+      internalID: 3496795445741445801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_0__Furniture_16
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 238
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e32279f7011a5f00800000000000000
+      internalID: 1106215384420328421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_0__Furniture_17
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 216
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c487a524f49c2d740800000000000000
+      internalID: 5175420264054945868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_0__Furniture_18
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 205
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342dc5b2695f15d60800000000000000
+      internalID: 7877347248569111107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_0__Furniture_19
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 202
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c39bb239e01fcdc0800000000000000
+      internalID: -3616653381990640701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_0__Furniture_20
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 200
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4208940248e4f970800000000000000
+      internalID: 8787904143149236811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_0__Furniture_21
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 190
+        width: 50
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40acd41cb73aa0bd0800000000000000
+      internalID: -2663136477716821500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_0__Furniture_22
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 135
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5468ccbe2396dc0800000000000000
+      internalID: -3645326435049650759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_0__Furniture_23
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 167
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7cf0e7c6b9a86a0800000000000000
+      internalID: -6446169026353707079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_0__Furniture_24
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 168
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673d0a508ff83d720800000000000000
+      internalID: 2869795682974225270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_0__Furniture_25
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 142
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9ae978a5ed45ec0800000000000000
+      internalID: -3578991323448956456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_0__Furniture_26
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 152
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e030d0e21ac8bace0800000000000000
+      internalID: -1392865035850808562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_0__Furniture_27
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 139
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a6231d044e41fd0800000000000000
+      internalID: -2372020136678626662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_0__Furniture_28
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 119
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e6c9cf6311830f0800000000000000
+      internalID: -1137139978047033742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_0__Furniture_29
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 135
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c659affd7738958d0800000000000000
+      internalID: -2857107937707780756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_0__Furniture_30
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 141
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b32fc0d96a33780800000000000000
+      internalID: -8704430461319759000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_0__Furniture_31
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 125
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5aa09a2cffb608f0800000000000000
+      internalID: -574560812676371878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_0__Furniture_32
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a443e55f2cff4450800000000000000
+      internalID: 6075351702580708521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_0__Furniture_33
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 136
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144e99509652b5450800000000000000
+      internalID: 6078493255062381633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_0__Furniture_34
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 120
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0058a677c76247d20800000000000000
+      internalID: 3275285145026462976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_0__Furniture_35
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 55
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e381aefdcba076cc0800000000000000
+      internalID: -3717991161044264898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_0__Furniture_36
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 94
+        width: 66
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b110780e319fc40b0800000000000000
+      internalID: -5742941561037586149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_0__Furniture_37
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 104
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205ca97faf9f42620800000000000000
+      internalID: 2748596528894100738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_0__Furniture_38
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 78
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236477674cc7232d0800000000000000
+      internalID: -3300438393666189774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_0__Furniture_39
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 71
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d063ec26c8b00a740800000000000000
+      internalID: 5161137870547596813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_0__Furniture_40
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 77
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f2a34820102b700800000000000000
+      internalID: 554506814439960422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_0__Furniture_41
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 72
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306d30778960e6470800000000000000
+      internalID: 8389650407739348483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_0__Furniture_42
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9752f2f4e12bfc1e0800000000000000
+      internalID: -2175324251749407367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_0__Furniture_43
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 39
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af609203aee54ea0800000000000000
+      internalID: -5889038553826955354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_0__Furniture_44
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 59
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45fa70dea3ef25e90800000000000000
+      internalID: -7038283738588401836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_0__Furniture_45
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 43
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892bfd0957c1413e0800000000000000
+      internalID: -2084009436298366312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_0__Furniture_46
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 60
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7262fd5894c5f4810800000000000000
+      internalID: 1751720250918774311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_0__Furniture_47
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1565af4b8211a5290800000000000000
+      internalID: -7900983729735444911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_0__Furniture_48
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 39
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e586a51b5b9d16140800000000000000
+      internalID: 4711286059594049630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_0__Furniture_49
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 46
+        width: 64
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c97924c51dc64940800000000000000
+      internalID: 5280133106507545033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_0__Furniture_50
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 44
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6fa753ceaac67250800000000000000
+      internalID: 5942159610312372079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_0__Furniture_51
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 29
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc27eba4e5ba16c30800000000000000
+      internalID: 4350947136485880523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_0__Furniture_52
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 24
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47cd3d2d17d13d040800000000000000
+      internalID: 4671109613218946164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_0__Furniture_53
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 27
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b14c60d0d1f39f0800000000000000
+      internalID: -486638292947428455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Level_0__Furniture_0: -6809606109040107243
+      Level_0__Furniture_1: -2615658750810545788
+      Level_0__Furniture_10: -275294680398844349
+      Level_0__Furniture_11: -3670563164383092618
+      Level_0__Furniture_12: -5875384217443389000
+      Level_0__Furniture_13: -5413598016701656488
+      Level_0__Furniture_14: -5989365568928549125
+      Level_0__Furniture_15: 3496795445741445801
+      Level_0__Furniture_16: 1106215384420328421
+      Level_0__Furniture_17: 5175420264054945868
+      Level_0__Furniture_18: 7877347248569111107
+      Level_0__Furniture_19: -3616653381990640701
+      Level_0__Furniture_2: -8322547504366255562
+      Level_0__Furniture_20: 8787904143149236811
+      Level_0__Furniture_21: -2663136477716821500
+      Level_0__Furniture_22: -3645326435049650759
+      Level_0__Furniture_23: -6446169026353707079
+      Level_0__Furniture_24: 2869795682974225270
+      Level_0__Furniture_25: -3578991323448956456
+      Level_0__Furniture_26: -1392865035850808562
+      Level_0__Furniture_27: -2372020136678626662
+      Level_0__Furniture_28: -1137139978047033742
+      Level_0__Furniture_29: -2857107937707780756
+      Level_0__Furniture_3: 2634462403363380459
+      Level_0__Furniture_30: -8704430461319759000
+      Level_0__Furniture_31: -574560812676371878
+      Level_0__Furniture_32: 6075351702580708521
+      Level_0__Furniture_33: 6078493255062381633
+      Level_0__Furniture_34: 3275285145026462976
+      Level_0__Furniture_35: -3717991161044264898
+      Level_0__Furniture_36: -5742941561037586149
+      Level_0__Furniture_37: 2748596528894100738
+      Level_0__Furniture_38: -3300438393666189774
+      Level_0__Furniture_39: 5161137870547596813
+      Level_0__Furniture_4: -9038316452392688886
+      Level_0__Furniture_40: 554506814439960422
+      Level_0__Furniture_41: 8389650407739348483
+      Level_0__Furniture_42: -2175324251749407367
+      Level_0__Furniture_43: -5889038553826955354
+      Level_0__Furniture_44: -7038283738588401836
+      Level_0__Furniture_45: -2084009436298366312
+      Level_0__Furniture_46: 1751720250918774311
+      Level_0__Furniture_47: -7900983729735444911
+      Level_0__Furniture_48: 4711286059594049630
+      Level_0__Furniture_49: 5280133106507545033
+      Level_0__Furniture_5: -5244613318311438816
+      Level_0__Furniture_50: 5942159610312372079
+      Level_0__Furniture_51: 4350947136485880523
+      Level_0__Furniture_52: 4671109613218946164
+      Level_0__Furniture_53: -486638292947428455
+      Level_0__Furniture_6: -2806378572120586486
+      Level_0__Furniture_7: -3813108810137306572
+      Level_0__Furniture_8: -2002482854189757347
+      Level_0__Furniture_9: 2742087877151017867
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
