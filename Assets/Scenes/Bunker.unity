@@ -6101,8 +6101,8 @@ GameObject:
   - component: {fileID: 1410181854}
   - component: {fileID: 1410181853}
   - component: {fileID: 1410181852}
-  - component: {fileID: 1410181855}
   - component: {fileID: 1410181856}
+  - component: {fileID: 1410181855}
   m_Layer: 0
   m_Name: Porta 3
   m_TagString: Untagged
