@@ -28,7 +28,7 @@ public class PlayerController : MonoBehaviour
 
     [Header("Status e Inventário")]
     public bool temChave = false;
-    public bool isFlashlightOn = true;
+    public bool isFlashlightOn = false;
     public bool isFocused = false;
 
     void Awake()
@@ -40,7 +40,7 @@ public class PlayerController : MonoBehaviour
 
     void Update()
     {
-        if (isDead) return;
+        if (isDead || PauseMenu.isPaused) return;
 
         moveInput = new Vector2(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical")).normalized;
         
