@@ -1,28 +1,41 @@
 using UnityEngine;
-using UnityEngine.Video;
 
 public class FogueiraTrigger : MonoBehaviour
 {
-    [SerializeField] private VideoPlayer videoPlay;
-    [SerializeField] private GameManager gameManager;
+    [SerializeField] private CutsceneManager cutsceneManager;
+    private bool playerPerto = false;
 
-    private CircleCollider2D circleCollider;
-
-    private void Start()
+    private void Update()
     {
-        videoPlay = GetComponent<VideoPlayer>();
-        gameManager = GetComponent<GameManager>();
-        circleCollider  = GetComponent<CircleCollider2D>();
-
-    }
-
-    private void OnCollisionEnter2D(Collision2D other)
-    {
-        if (Input.GetKeyDown("E"))
+        // Verifica se o player está perto E apertou E
+        if (playerPerto && Input.GetKeyDown(KeyCode.E))
         {
-
-
+            // Verifica se o player tem os dois itens no GameManager
+            if (GameManager.temIsqueiro && GameManager.temGasolina)
+            {
+                cutsceneManager.PlayCutscene();
+            }
+            else
+            {
+                Debug.Log("Você ainda precisa encontrar o isqueiro e a gasolina!");
+            }
         }
     }
 
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.CompareTag("Player"))
+        {
+            playerPerto = true;
+            Debug.Log("Pressione E para acender a fogueira");
+        }
+    }
+
+    private void OnTriggerExit2D(Collider2D other)
+    {
+        if (other.CompareTag("Player"))
+        {
+            playerPerto = false;
+        }
+    }
 }
