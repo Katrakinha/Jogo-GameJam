@@ -6,6 +6,7 @@ public class DoorSystemKey : MonoBehaviour
     public Sprite spriteAberta;
     public Sprite spriteFechada;
     public GameObject iconeE;
+    public GameObject DoorText;
     
     [Tooltip("Colisor que bloqueia a passagem do jogador")]
     public BoxCollider2D colisorFisico; 
@@ -31,6 +32,7 @@ public class DoorSystemKey : MonoBehaviour
                 if (playerPertoRef == null || !playerPertoRef.temChave)
                 {
                     Debug.Log("A porta está trancada! Você precisa da chave.");
+                    DoorText.SetActive(true);
                     return; 
                 }
             }
@@ -57,6 +59,7 @@ public class DoorSystemKey : MonoBehaviour
         {
             perto = false;
             iconeE.SetActive(false);
+            DoorText.SetActive(false);
             playerPertoRef = null;
         }
     }

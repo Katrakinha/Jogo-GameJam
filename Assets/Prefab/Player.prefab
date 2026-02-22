@@ -13,14 +13,14 @@ GameObject:
   - component: {fileID: 2498604921801154344}
   - component: {fileID: 6632056599546505596}
   - component: {fileID: 7655427110424100896}
-  - component: {fileID: 1723341368137181447}
+  - component: {fileID: 2821765117914472435}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &7489278407896154341
 Transform:
   m_ObjectHideFlags: 0
@@ -171,7 +171,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 5
-  animator: {fileID: 1723341368137181447}
+  animator: {fileID: 2821765117914472435}
   flashlightLight: {fileID: 6729288042911966416}
   rotationSmoothness: 0.1
   normalAngle: 65
@@ -181,9 +181,9 @@ MonoBehaviour:
   focusedRadius: 10
   focusedIntensity: 1.5
   temChave: 0
-  isFlashlightOn: 1
+  isFlashlightOn: 0
   isFocused: 0
---- !u!95 &1723341368137181447
+--- !u!95 &2821765117914472435
 Animator:
   serializedVersion: 7
   m_ObjectHideFlags: 0
