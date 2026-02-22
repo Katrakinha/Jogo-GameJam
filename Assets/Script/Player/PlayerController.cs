@@ -31,6 +31,18 @@ public class PlayerController : MonoBehaviour
     public bool isFlashlightOn = false;
     public bool isFocused = false;
 
+    [Header("Sons")]
+    public AudioSource audioSource;
+    public AudioClip somPassos;
+    public AudioClip somMorte;
+    public AudioClip somLanterna;
+    private float cronometroPassos = 0f;
+
+    [Header("Volumes")]
+[Range(0f, 1f)] public float volumePassos = 0.5f;
+[Range(0f, 1f)] public float volumeLanterna = 1f;
+[Range(0f, 1f)] public float volumeMorte = 1f;
+
     void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -49,6 +61,17 @@ public class PlayerController : MonoBehaviour
             // Isso envia o valor para o Animator
             animator.SetFloat("Speed", moveInput.magnitude);
         }
+
+        if (moveInput.magnitude > 0)
+{
+    cronometroPassos -= Time.deltaTime;
+    if (cronometroPassos <= 0f)
+    {
+        audioSource.PlayOneShot(somPassos, volumePassos);
+        cronometroPassos = 0.4f; // Tempo entre um passo e outro
+    }
+}
+else cronometroPassos = 0f;
 
         RotatePlayerToMouse();
         HandleFlashlightInput();
@@ -74,6 +97,7 @@ public class PlayerController : MonoBehaviour
     {
         if (Input.GetMouseButtonDown(1))
         {
+            audioSource.PlayOneShot(somLanterna, volumeLanterna);
             isFlashlightOn = !isFlashlightOn;
             if (flashlightLight != null) flashlightLight.enabled = isFlashlightOn;
         }
@@ -107,6 +131,7 @@ public class PlayerController : MonoBehaviour
     {
         if (isDead) return;
         isDead = true;
+        audioSource.PlayOneShot(somMorte, volumeMorte);
 
         // Trava o peso do personagem e desliga a colisão para o inimigo passar direto
         rb.linearVelocity = Vector2.zero;
