@@ -27,8 +27,11 @@ public class PlayerController : MonoBehaviour
     public float focusedRadius = 12f;
     public float focusedIntensity = 2f;
 
-    private bool isFlashlightOn = true;
-    private bool isFocused = false;
+    [Header("Inventário")]
+    public bool temChave = false;
+
+    public bool isFlashlightOn = true;
+    public bool isFocused = false;
 
     void Awake()
     {
@@ -82,6 +85,33 @@ public class PlayerController : MonoBehaviour
             flashlightLight.pointLightOuterRadius = targetRadius;
             flashlightLight.intensity = targetIntensity;
         }
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.CompareTag("Chave"))
+        {
+            temChave = true;
+            Destroy(collision.gameObject); 
+        }
+    }
+
+    // NOVO: Verifica se a lanterna está batendo diretamente em um alvo
+    public bool EstaIluminando(Vector3 posicaoAlvo)
+    {
+        if (!isFlashlightOn || flashlightTransform == null) return false;
+
+        float raioAtual = isFocused ? focusedRadius : normalRadius;
+        float anguloAtual = isFocused ? focusedAngle : normalAngle;
+
+        Vector2 direcaoAlvo = posicaoAlvo - flashlightTransform.position;
+        
+        // Se está muito longe, não ilumina
+        if (direcaoAlvo.magnitude > raioAtual) return false; 
+
+        // Se está dentro do ângulo da luz, retorna verdadeiro
+        float angulo = Vector2.Angle(flashlightTransform.up, direcaoAlvo);
+        return angulo <= anguloAtual / 2f; 
     }
 
     private void OnDrawGizmosSelected()
